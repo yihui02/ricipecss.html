@@ -1,4 +1,3 @@
-# ricipecss.html
 <!DOCTYPE html>
 <html lang="en" >
     <haed>
@@ -13,8 +12,6 @@
         <a href="log.html">log In</a>
       </div>
       
-    
-    
     <div class="row">
         
         <div class="Fried vegan vegetable crab shell yellow">
@@ -75,7 +72,6 @@
             </fieldset>
 
             <fieldset>
-              
               <br/><br/><br/>
               <h4>3</h4><img class="img4" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631878.jpg@152w_118h_99q_1e_1c.jpg" alt="p4">  
               <p>After mixing all the ingredients, heat the pan, pour the brown rice oil, use a spoon to take out a full spoonful of the amount, put it in the oil and fry slowly over a medium-to-small heat until golden brown, and then take it out.</p>
