@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" >
     <haed>
-        <title>recipe</title>
+        
         <link rel="stylesheet" href="styles.css">
     </haed>
     <h1>Vegetarian Recipe</h1>
